@@ -1,0 +1,30 @@
+# rcc -> React Class Based Components
+# rcep -> When we want Ract Class Based Components With Proptypes
+STRUCTURE OF THE newsapp :-
+1) Navbar Component
+2) News Component
+    i) NewsItem Component
+    ii) NewsItem Component
+    iii) NewsItem Component
+    iv) NewsItem Component
+    v) NewsItem Component
+    vi) NewsItem Component
+3) NewsDetails Component
+
+My News Api Key is:- c1a88cfcf0384f36b3ec5c0ffb2e52b3
+
+# When we want change somethng dynamically(title,desc) then we can use state.
+# props are read only props can not change
+# ctrl + shieft + r --> It is used to see latest updated website that you are created.(It runs on web)
+
+Note:-
+componentDidMount() it is a lifecycle method.
+If we define componentDidMount() method, middle of the constructor and render method It will run always.
+i. constructor
+ii. componentDidMount()
+iii. render
+Execution : constructor -> render -> componentDidMount()
+
+# pageSize=20 -> That means how many articles are in a single page
+
+#IMORTANT REACT LIFECYCLE METHODS :  https://projects.wojtekmaj.pl/react-lifecycle-methods-diagram/
